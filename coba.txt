@@ -1,4 +1,8 @@
 ini coba
 mencoba git
 ini tes yang saya edit melalui GIT 
+ini tes ke dua
+ini yang ke tiga
+
+
 
