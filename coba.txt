@@ -1,2 +1,4 @@
 ini coba
 mencoba git
+ini tes yang saya edit melalui GIT 
+
